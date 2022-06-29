@@ -1,0 +1,27 @@
+/* @media (768px)*/
+@media (min-width: 768px) {
+  .global-box {
+    display: flex;
+    padding: 8rem 2rem;
+    min-height: max-content;
+  }
+  main {
+    flex-direction: row;
+    align-items: center;
+    max-width: 102rem;
+    gap: 10rem;
+  }
+  .section-about {
+    max-width: 48.4rem;
+    gap: 3rem;
+  }
+  .list-item {
+    align-items: center;
+  }
+  .list-span {
+    padding-right: 5.4rem;
+  }
+  .list-span01 {
+    padding-right: 6.4rem;
+  }
+}

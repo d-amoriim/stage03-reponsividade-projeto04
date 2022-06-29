@@ -1,0 +1,9 @@
+:root {
+  font-size: 62.5%;
+
+  --purple-100: #ECE9FD;
+  --purple-200: #7158EF;
+  --black-100: #391400;
+  --black-200: #090039;
+  --gray-100: rgba(10, 0, 57, 0.64);
+}
